@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaby Lentino
 - 👀 I’m interested in  aprender programacion
-- 🌱 I’m currently learning  programacion backend en Coderhouse
+- 🌱 I’m currently learning  programacion  en Coderhouse and Platzi
 - 💞️ I’m looking to collaborate on  proyectos  que me permitan  avanzar en el curso,  para poder insertarme en el mundo laboral
 - 📫 How to reach me  gaby_angel@outlook.com
 
